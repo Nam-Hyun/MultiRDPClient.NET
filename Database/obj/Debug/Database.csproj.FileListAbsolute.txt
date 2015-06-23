@@ -1,0 +1,7 @@
+E:\Codes\Multi Remote Desktop Client .NET\Database\bin\Debug\Database.dll
+E:\Codes\Multi Remote Desktop Client .NET\Database\bin\Debug\Database.pdb
+E:\Codes\Multi Remote Desktop Client .NET\Database\bin\Debug\RijndaelEncryptDecrypt.dll
+E:\Codes\Multi Remote Desktop Client .NET\Database\bin\Debug\RijndaelEncryptDecrypt.pdb
+E:\Codes\Multi Remote Desktop Client .NET\Database\obj\Debug\ResolveAssemblyReference.cache
+E:\Codes\Multi Remote Desktop Client .NET\Database\obj\Debug\Database.dll
+E:\Codes\Multi Remote Desktop Client .NET\Database\obj\Debug\Database.pdb

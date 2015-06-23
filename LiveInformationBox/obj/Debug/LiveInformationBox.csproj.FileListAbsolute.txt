@@ -1,0 +1,10 @@
+E:\Codes\Multi Remote Desktop Client .NET\LiveInformationBox\bin\Debug\LiveInformationBox.dll
+E:\Codes\Multi Remote Desktop Client .NET\LiveInformationBox\bin\Debug\LiveInformationBox.pdb
+E:\Codes\Multi Remote Desktop Client .NET\LiveInformationBox\bin\Debug\Win32APIs.dll
+E:\Codes\Multi Remote Desktop Client .NET\LiveInformationBox\bin\Debug\Win32APIs.pdb
+E:\Codes\Multi Remote Desktop Client .NET\LiveInformationBox\obj\Debug\ResolveAssemblyReference.cache
+E:\Codes\Multi Remote Desktop Client .NET\LiveInformationBox\obj\Debug\LiveInformationBox.InfoWindow.resources
+E:\Codes\Multi Remote Desktop Client .NET\LiveInformationBox\obj\Debug\LiveInformationBox.Properties.Resources.resources
+E:\Codes\Multi Remote Desktop Client .NET\LiveInformationBox\obj\Debug\LiveInformationBox.csproj.GenerateResource.Cache
+E:\Codes\Multi Remote Desktop Client .NET\LiveInformationBox\obj\Debug\LiveInformationBox.dll
+E:\Codes\Multi Remote Desktop Client .NET\LiveInformationBox\obj\Debug\LiveInformationBox.pdb

@@ -1,0 +1,10 @@
+E:\Codes\Multi Remote Desktop Client .NET\CommonTools\bin\Debug\CommonTools.dll
+E:\Codes\Multi Remote Desktop Client .NET\CommonTools\bin\Debug\CommonTools.pdb
+E:\Codes\Multi Remote Desktop Client .NET\CommonTools\obj\Debug\ResolveAssemblyReference.cache
+E:\Codes\Multi Remote Desktop Client .NET\CommonTools\obj\Debug\CommonTools.ColorPickerCtrl.resources
+E:\Codes\Multi Remote Desktop Client .NET\CommonTools\obj\Debug\CommonTools.ColorPickerDialog.resources
+E:\Codes\Multi Remote Desktop Client .NET\CommonTools\obj\Debug\CommonTools.ColorWheelCtrl.resources
+E:\Codes\Multi Remote Desktop Client .NET\CommonTools\obj\Debug\CommonTools.PropertyDialog.resources
+E:\Codes\Multi Remote Desktop Client .NET\CommonTools\obj\Debug\CommonTools.csproj.GenerateResource.Cache
+E:\Codes\Multi Remote Desktop Client .NET\CommonTools\obj\Debug\CommonTools.dll
+E:\Codes\Multi Remote Desktop Client .NET\CommonTools\obj\Debug\CommonTools.pdb

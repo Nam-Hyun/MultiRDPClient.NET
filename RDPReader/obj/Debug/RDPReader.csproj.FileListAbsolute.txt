@@ -1,0 +1,5 @@
+E:\Codes\Multi Remote Desktop Client .NET\RDPReader\bin\Debug\RDPReader.dll
+E:\Codes\Multi Remote Desktop Client .NET\RDPReader\bin\Debug\RDPReader.pdb
+E:\Codes\Multi Remote Desktop Client .NET\RDPReader\obj\Debug\ResolveAssemblyReference.cache
+E:\Codes\Multi Remote Desktop Client .NET\RDPReader\obj\Debug\RDPReader.dll
+E:\Codes\Multi Remote Desktop Client .NET\RDPReader\obj\Debug\RDPReader.pdb
