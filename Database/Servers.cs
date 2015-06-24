@@ -27,6 +27,11 @@ namespace Database
         {
             string sql = "SELECT * FROM Servers";
 
+            //using (SQLiteConnection conn = new SQLiteConnection())
+            //{
+
+            //}
+
             SQLiteDataReader reader;
             string result = ExecuteQuery(sql, null, out reader);
 

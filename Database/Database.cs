@@ -72,6 +72,11 @@ namespace Database
         {
             string res = string.Empty;
 
+            if (_connection.State == ConnectionState.Open)
+            {
+                CloseConnection();
+            }
+
             reader = null;
 
             _connection.Open();
@@ -99,6 +104,11 @@ namespace Database
         public string ExecuteNonQuery(string sql_query, SQLiteParameter[] parameters)
         {
             string res = string.Empty;
+
+            if (_connection.State == ConnectionState.Open)
+            {
+                CloseConnection();
+            }
 
             _connection.Open();
             _command = _connection.CreateCommand();

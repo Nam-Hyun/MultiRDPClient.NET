@@ -282,6 +282,7 @@ namespace MultiRemoteDesktopClient
             else if (sender == btnSettings)
             {
                 ServerSettingsWindow ssw = new ServerSettingsWindow(this._sd);
+
                 ssw.ApplySettings += new ApplySettings(ssw_ApplySettings);
                 ssw.GetClientWindowSize += new GetClientWindowSize(ssw_GetClientWindowSize);
                 ssw.ShowDialog();
@@ -296,6 +297,7 @@ namespace MultiRemoteDesktopClient
             else if (sender == btnFullscreen)
             {
                 DialogResult dr = MessageBox.Show("You are about to enter in Fullscreen mode.\r\nBy default, the remote desktop resolution will be the same as what you see on the window.\r\n\r\nWould you like to resize it automatically based on your screen resolution though it will be permanent as soon as you leave in Fullscreen.\r\n\r\nNote: This will reconnect.", this.Text, MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
                 if (dr == DialogResult.Yes)
                 {
                     Reconnect(false, false, true);
